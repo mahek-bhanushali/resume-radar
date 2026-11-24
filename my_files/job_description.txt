@@ -1,0 +1,23 @@
+Python Developer Intern
+
+Job Responsibilities:
+- Develop Python scripts and applications.
+- Work on automation and data-processing tasks.
+- Use SQL for database operations.
+- Handle data using Pandas and NumPy.
+- Assist in API development and integration.
+- Debug, test and maintain Python code.
+- Collaborate with the development team.
+
+Required Skills:
+- Good knowledge of Python.
+- Understanding of OOP concepts.
+- Basic SQL and database knowledge.
+- Familiarity with Pandas and NumPy.
+- Basic knowledge of Flask/Django and REST APIs.
+- Knowledge of Git and GitHub.
+
+Eligibility:
+- B.E./B.Tech, BCA, MCA or related degree.
+- Freshers and final-year students can apply.
+- Good logical thinking and problem-solving skills.

@@ -1,0 +1,32 @@
+MAHEK BHANUSHALI
+Mumbai | sample.candidate@example.com | +91 98765 43210
+github.com/sample-candidate | linkedin.com/in/sample-candidate
+
+SUMMARY
+B.Tech fresher in Electronics and Telecommunication Engineering looking for a Python developer internship.
+I enjoy turning messy data into clean, useful tools and building simple backend services.
+
+SKILLS
+Languages: Python, SQL
+Libraries and frameworks: Pandas, NumPy, Flask, SQLAlchemy, pytest
+Databases and tools: SQLite, Git, GitHub, Excel
+Concepts: OOP, REST APIs, JWT authentication, unit testing, data cleaning
+
+PROJECTS
+Expense Tracker REST API (Flask, SQLAlchemy, SQLite, JWT)
+- Built 8 endpoints for user registration, login and expense management with per-user data access.
+- Added category and date filtering, pagination and a spending summary using SQL aggregation.
+- Structured the code into routes, services and models layers with input validation.
+- Wrote 15 pytest tests covering authentication, validation and data isolation.
+
+Sales Data Cleaning Pipeline (Pandas, NumPy, SQL)
+- Cleaned 4,500 messy sales records (mixed date formats, duplicates, missing values).
+- Loaded the clean data into a three-table SQLite database and wrote 8 analysis queries.
+- Automated an Excel report with charts and key numbers using a single command.
+
+EDUCATION
+B.Tech, Electronics and Telecommunication Engineering, Mumbai University - CGPA 8.3
+Graduated 2026
+
+PUBLICATION
+IEEE conference paper on customer churn analysis in telecom.
